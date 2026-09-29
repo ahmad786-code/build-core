@@ -89,7 +89,7 @@ export const Header: React.FC<HeaderProps> = ({
           <div className="flex items-center gap-2.5 overflow-hidden">
             <span className="bg-amber-500 text-slate-950 font-bold px-2 py-0.5 rounded text-[10px] tracking-wide uppercase flex items-center gap-1">
               <Sparkles className="w-3 h-3" />
-              Demo Showcase
+          
             </span>
             <div className="flex items-center gap-2 text-slate-200 truncate font-medium">
               <span className="text-slate-400 line-through flex items-center gap-1">
