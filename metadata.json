@@ -1,0 +1,6 @@
+{
+  "name": "BuildCore Construction Belgium ERP",
+  "description": "Enterprise construction management web application for BuildCore Construction Belgium, managing projects, site reports, workers, materials, and finances.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
